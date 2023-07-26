@@ -1,18 +1,9 @@
 18GB file
 
 VM link for AtlasVM:
-https://drive.google.com/file/d/1CK0cXK10GqoAmS4DNg3T1Z5wlHdLFmHn/view?usp=sharing
+https://drive.google.com/file/d/1pTxKhvw9SC32qkMk1LzXO7TVe7kP7xcm/view?usp=sharing
 
 Software included in the OVA file:
-everything.exe
-ghidraRun.bat file which opens ghidra software
-sysinternals
-cygwin64 terminal
-ftk imager
-autopsy 4.20.0
-wireshark
-hxd
-notepad++
-volatility3
-regshot
-resource hacker
+dirbuster
+seclists
+
